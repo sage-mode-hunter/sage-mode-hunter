@@ -55,12 +55,6 @@ Automation
 
 ---
 
-# 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,git,github,docker,vscode" />
-</p>
-
 ### Tools & Platforms
 
 ```text
@@ -114,25 +108,6 @@ Build Securely
 Share Knowledge
 Contribute Openly
 ```
-
----
-
-# 👥 CODEOPS47
-
-Focused on:
-
-* Security Research
-* Open Source Contributions
-* Knowledge Sharing
-* Engineering Excellence
-
----
-
-# 🏢 DigiScrypt
-
-Building secure and reliable software solutions while promoting a strong security culture.
-
-🌐 https://digiscrypt.com/
 
 ---
 
