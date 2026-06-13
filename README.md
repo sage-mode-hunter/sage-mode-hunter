@@ -55,6 +55,12 @@ Automation
 
 ---
 
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,linux,git,github,docker,vscode" />
+</p>
+
 ### Tools & Platforms
 
 ```text
@@ -92,8 +98,6 @@ Bash
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sage-mode-hunter&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage-mode-hunter&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
