@@ -8,8 +8,8 @@
 
 <p align="center">
 
-<a href="https://digiscrypt.com/">
-<img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-16a34a?style=for-the-badge" />
+<a href="https://bugqore.com/">
+<img src="https://img.shields.io/badge/🏢%20BugQore-Visit%20Website-16a34a?style=for-the-badge" />
 </a>
 
 <img src="https://img.shields.io/badge/👥%20CODEOPS47-Security%20Team-15803d?style=for-the-badge" />
@@ -30,11 +30,9 @@
 
 Security enthusiast passionate about learning, researching, and improving software security.
 
-Currently contributing through:
-
-* 🏢 DigiScrypt
-* 👥 CODEOPS47
-* 🌍 Open Source Community
+- 🏢 BugQore
+- 👥 CODEOPS47
+- 🌍 Open Source Community
 
 ---
 
@@ -77,11 +75,11 @@ Bash
 
 # 🌱 Currently Learning
 
-* Advanced Security Concepts
-* Vulnerability Research
-* Secure Software Development
-* Cloud & Infrastructure Security
-* Security Automation
+- Advanced Security Concepts
+- Vulnerability Research
+- Secure Software Development
+- Cloud & Infrastructure Security
+- Security Automation
 
 ---
 
